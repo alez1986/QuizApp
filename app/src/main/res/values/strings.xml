@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Russia Quiz App</string>
+    <string name="submit">Submit</string>
+    <string name="type_answer">Type your answer</string>
+    <string name="question1">1. Which of these Russian cities were hosting olympic games?</string>
+    <string name="question2">2. Moscow has the biggest population among European cities. What\'s the official amount of people are living there?</string>
+    <string name="question3">3. The capital of Russia is ...</string>
+    <string name="question4">4. How many time zones has Russian Federation?</string>
+    <string name="question5">5. What city is called Nothern Venice? It\'s also cultural capital of Russia.</string>
+    <string name="moscow">Moscow</string>
+    <string name="sochi">Sochi</string>
+    <string name="kazan">Kazan</string>
+    <string name="peterburg">Saint Petersburg</string>
+    <string name="novosibirsk">Novosibirsk</string>
+    <string name="samara">Samara</string>
+    <string name="ekaterinburg">Ekaterinburg</string>
+    <string name="ten_mil">10 millions</string>
+    <string name="seven_mil">7 millions</string>
+    <string name="fifteen_mil">15 millions</string>
+    <string name="twelve_mil">12 millions</string>
+    <string name="score">Total score is <xliff:g id="score" example="5">%d</xliff:g></string>
+</resources>

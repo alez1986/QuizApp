@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Russia Quiz App</string>
+    <string name="submit">Ответить</string>
+    <string name="type_answer">Введите ответ</string>
+    <string name="moscow">Москва</string>
+    <string name="sochi">Сочи</string>
+    <string name="kazan">Казань</string>
+    <string name="peterburg">Санкт Петербург</string>
+    <string name="novosibirsk">Новосибирск</string>
+    <string name="samara">Самара</string>
+    <string name="ekaterinburg">Екатеринбург</string>
+    <string name="ten_mil">10 миллионов</string>
+    <string name="seven_mil">7 миллионов</string>
+    <string name="fifteen_mil">15 миллионов</string>
+    <string name="twelve_mil">12 миллионов</string>
+    <string name="question5">5. Какой город называют северной Венецией, который также является культурной столицей России?</string>
+    <string name="question4">4. Сколько часовых поясов в Российской Федерации?</string>
+    <string name="question3">3. Столицей России является ...</string>
+    <string name="question1">1. Какие из этих российских городов принимали олимпийские игры?</string>
+    <string name="question2">2. В Москве наибольшая численность населения среди европейских городов. Сколько же человек здесь официально проживает?</string>
+</resources>
