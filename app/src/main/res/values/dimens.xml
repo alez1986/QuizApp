@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="ball_radius">30dp</dimen>
+    <dimen name="question_fontSize">18sp</dimen>
+    <dimen name="answer_fontSize">16sp</dimen>
+    <dimen name="left_padding">10dp</dimen>
+    <dimen name="left_margin">14dp</dimen>
+</resources>
