@@ -19,4 +19,8 @@
     <string name="fifteen_mil">15 millions</string>
     <string name="twelve_mil">12 millions</string>
     <string name="score">Total score is <xliff:g id="score" example="5">%d</xliff:g></string>
+    <string name="zone5">5</string>
+    <string name="zone7">7</string>
+    <string name="zone9">9</string>
+    <string name="zone11">11</string>
 </resources>

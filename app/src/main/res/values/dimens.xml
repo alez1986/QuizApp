@@ -6,4 +6,5 @@
     <dimen name="answer_fontSize">16sp</dimen>
     <dimen name="left_padding">10dp</dimen>
     <dimen name="left_margin">14dp</dimen>
+    <dimen name="button_margin">30dp</dimen>
 </resources>
